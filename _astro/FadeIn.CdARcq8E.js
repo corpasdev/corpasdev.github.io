@@ -1,1 +1,0 @@
-import{l as o,o as s}from"./react.BqgXP1_K.js";import"./index.qNTDzdXh.js";function r({children:i,delay:t=0,className:n=""}){return o.jsx(s.div,{initial:{opacity:0,y:24},whileInView:{opacity:1,y:0},viewport:{once:!0,margin:"-30px"},transition:{type:"spring",stiffness:100,damping:15,mass:.8,delay:t},className:n,children:i})}export{r as default};

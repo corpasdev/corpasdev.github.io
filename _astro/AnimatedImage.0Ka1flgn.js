@@ -1,0 +1,1 @@
+import{j as e}from"./jsx-runtime.D_zvdyIk.js";import{m}from"./react.1AxOcaUB.js";import"./index.qNTDzdXh.js";function p({src:t,alt:a,className:i="",style:o}){return e.jsx(m.img,{src:t,alt:a,initial:{opacity:0,scale:.95},animate:{opacity:1,scale:1},transition:{duration:1,delay:.3,ease:[.25,.46,.45,.94]},className:i,style:o})}export{p as default};

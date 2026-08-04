@@ -1,1 +1,0 @@
-import{l as s,o as n}from"./react.BqgXP1_K.js";import"./index.qNTDzdXh.js";function p({children:i,delay:t=0,className:a=""}){return s.jsx(n.div,{initial:{opacity:0,y:20},animate:{opacity:1,y:0},transition:{type:"spring",stiffness:80,damping:18,mass:.9,delay:t},className:a,children:i})}export{p as default};
