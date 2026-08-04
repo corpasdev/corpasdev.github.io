@@ -1,0 +1,1 @@
+import{l as e,o as n}from"./react.BqgXP1_K.js";import"./index.qNTDzdXh.js";function r({src:a,alt:t,className:i="",style:o}){return e.jsx(n.img,{src:a,alt:t,initial:{opacity:0,scale:.95},animate:{opacity:1,scale:1},transition:{duration:1,delay:.3,ease:[.25,.46,.45,.94]},className:i,style:o})}export{r as default};
